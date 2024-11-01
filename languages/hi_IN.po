@@ -1,0 +1,1252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: login-page-customizer\n"
+"POT-Creation-Date: 2019-04-19 14:22+0530\n"
+"PO-Revision-Date: 2019-04-19 14:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../pages\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: background-option.php:10 background-option.php:31
+msgid "BACKGROUND OPTIONS"
+msgstr ""
+
+#: background-option.php:11 button-beauty.php:11 dashboard.php:35
+#: dashboard.php:64 footer.php:11 google-captcha.php:11 help.php:11
+#: import-export.php:11 input-fields.php:11 login-form.php:11
+#: logo-settings.php:11 pre-design.php:49 welcome-messages.php:11
+msgid "Custom Login Page"
+msgstr ""
+
+#: background-option.php:14
+msgid "Background"
+msgstr ""
+
+#: background-option.php:38
+msgid "Select Background"
+msgstr ""
+
+#: background-option.php:43
+msgid "Flate Background Color"
+msgstr ""
+
+#: background-option.php:44 login-form.php:58
+msgid "Background Image"
+msgstr ""
+
+#: background-option.php:56
+msgid "Color Background Settings"
+msgstr ""
+
+#: background-option.php:61
+msgid "Choose Background Color"
+msgstr ""
+
+#: background-option.php:75
+msgid "Upload Background Image"
+msgstr ""
+
+#: background-option.php:79 login-form.php:79 logo-settings.php:73
+msgid "Upload Image"
+msgstr ""
+
+#: background-option.php:81
+msgid "Remove"
+msgstr ""
+
+#: background-option.php:91
+msgid "Background Image Option"
+msgstr ""
+
+#: background-option.php:96
+msgid "Background Repeat"
+msgstr ""
+
+#: background-option.php:101
+msgid "repeat"
+msgstr ""
+
+#: background-option.php:102
+msgid "repeat-x"
+msgstr ""
+
+#: background-option.php:103
+msgid "repeat-y"
+msgstr ""
+
+#: background-option.php:104
+msgid "no-repeat"
+msgstr ""
+
+#: background-option.php:105 background-option.php:145
+msgid "initial"
+msgstr ""
+
+#: background-option.php:106 background-option.php:146
+msgid "inherit"
+msgstr ""
+
+#: background-option.php:115
+msgid "Image Position"
+msgstr ""
+
+#: background-option.php:120
+msgid "left top"
+msgstr ""
+
+#: background-option.php:121
+msgid "left center"
+msgstr ""
+
+#: background-option.php:122
+msgid "left bottom"
+msgstr ""
+
+#: background-option.php:123
+msgid "right top"
+msgstr ""
+
+#: background-option.php:124
+msgid "right center"
+msgstr ""
+
+#: background-option.php:125
+msgid "right bottom"
+msgstr ""
+
+#: background-option.php:126
+msgid "center top"
+msgstr ""
+
+#: background-option.php:127
+msgid "center"
+msgstr ""
+
+#: background-option.php:128
+msgid "center bottom"
+msgstr ""
+
+#: background-option.php:137
+msgid "Background Image Size"
+msgstr ""
+
+#: background-option.php:142
+msgid "auto"
+msgstr ""
+
+#: background-option.php:143
+msgid "cover"
+msgstr ""
+
+#: background-option.php:144
+msgid "contain"
+msgstr ""
+
+#: background-option.php:158
+msgid "Background Image Overlay Settings"
+msgstr ""
+
+#: background-option.php:165
+msgid "Enable Overlay Color"
+msgstr ""
+
+#: background-option.php:171 google-captcha.php:44 login-form.php:45
+msgid "ON/OFF"
+msgstr ""
+
+#: background-option.php:173
+msgid "Switch it ON/OFF to enable/disable Login Page Background Overlay."
+msgstr ""
+
+#: background-option.php:178
+msgid "Overlay Color"
+msgstr ""
+
+#: background-option.php:183
+msgid "Overlay color doesn't mean Login Page background color"
+msgstr ""
+
+#: background-option.php:184
+msgid "It's overlay color on Background Image"
+msgstr ""
+
+#: background-option.php:190
+msgid "Overlay Color Opacity"
+msgstr ""
+
+#: background-option.php:197 button-beauty.php:110
+msgid "%"
+msgstr ""
+
+#: background-option.php:207 button-beauty.php:168 dashboard.php:125
+#: footer.php:269 google-captcha.php:92 input-fields.php:248 login-form.php:294
+#: logo-settings.php:206 welcome-messages.php:111
+msgid "Save Changes"
+msgstr ""
+
+#: background-option.php:208 button-beauty.php:169 dashboard.php:126
+#: footer.php:270 google-captcha.php:93 input-fields.php:249 login-form.php:295
+#: logo-settings.php:207 welcome-messages.php:112
+msgid "Reset Section"
+msgstr ""
+
+#: background-option.php:209 button-beauty.php:170 dashboard.php:127
+#: footer.php:271 google-captcha.php:94 input-fields.php:250 login-form.php:296
+#: logo-settings.php:208 pre-design.php:121 welcome-messages.php:113
+msgid "Reset All"
+msgstr ""
+
+#: button-beauty.php:10
+msgid "BUTTON BEAUTY"
+msgstr ""
+
+#: button-beauty.php:14 content.php:70 footer.php:14 input-fields.php:14
+#: logo-settings.php:14
+msgid "Settings"
+msgstr ""
+
+#: button-beauty.php:15
+msgid "Button Bueaty"
+msgstr ""
+
+#: button-beauty.php:32
+msgid "Button Beauty Color Option"
+msgstr ""
+
+#: button-beauty.php:39
+msgid "Button BG Color"
+msgstr ""
+
+#: button-beauty.php:48
+msgid "Border Color"
+msgstr ""
+
+#: button-beauty.php:57
+msgid "Button BG Color (Hover)"
+msgstr ""
+
+#: button-beauty.php:66
+msgid "Border Color (Hover)"
+msgstr ""
+
+#: button-beauty.php:75
+msgid "Button Text Color"
+msgstr ""
+
+#: button-beauty.php:84
+msgid "Button Text Shadow"
+msgstr ""
+
+#: button-beauty.php:96
+msgid "Button Size Options"
+msgstr ""
+
+#: button-beauty.php:103
+msgid "Button Size"
+msgstr ""
+
+#: button-beauty.php:115
+msgid "Button Top Padding"
+msgstr ""
+
+#: button-beauty.php:122 button-beauty.php:134 button-beauty.php:146
+#: button-beauty.php:158 footer.php:87 footer.php:161 input-fields.php:113
+#: input-fields.php:125 input-fields.php:137 input-fields.php:149
+#: login-form.php:137 login-form.php:149 login-form.php:170 login-form.php:182
+#: login-form.php:194 login-form.php:206 login-form.php:218
+#: logo-settings.php:87 logo-settings.php:99 logo-settings.php:141
+#: logo-settings.php:157 logo-settings.php:173
+msgid "px"
+msgstr ""
+
+#: button-beauty.php:127
+msgid "Button Bottom Padding"
+msgstr ""
+
+#: button-beauty.php:139
+msgid "Button Radius"
+msgstr ""
+
+#: button-beauty.php:151
+msgid "Button Text Size"
+msgstr ""
+
+#: content.php:10
+msgid "Custom "
+msgstr ""
+
+#: content.php:10
+msgid "Login Page"
+msgstr ""
+
+#: content.php:15
+msgid "Toggle navigation"
+msgstr ""
+
+#: content.php:28 content.php:134 plugins.php:57 plugins.php:97 plugins.php:137
+#: plugins.php:177 plugins.php:219
+msgid "WebHunt Infotech"
+msgstr ""
+
+#: content.php:46
+msgid "Powered By"
+msgstr ""
+
+#: content.php:48
+msgid "WEBHUNT INFOTECH"
+msgstr ""
+
+#: content.php:54
+msgid "PLUGIN MENU"
+msgstr ""
+
+#: content.php:56 dashboard.php:38
+msgid "Dashboard"
+msgstr ""
+
+#: content.php:59
+msgid "Pre Design Layout"
+msgstr ""
+
+#: content.php:62
+msgid "Background Option"
+msgstr ""
+
+#: content.php:65
+msgid "Login Form"
+msgstr ""
+
+#: content.php:76 logo-settings.php:15
+msgid "Logo Settings"
+msgstr ""
+
+#: content.php:77 input-fields.php:15
+msgid "Input Field"
+msgstr ""
+
+#: content.php:78
+msgid "Button Beauty"
+msgstr ""
+
+#: content.php:79 footer.php:10 footer.php:15
+msgid "Form Footer"
+msgstr ""
+
+#: content.php:83 welcome-messages.php:10 welcome-messages.php:31
+msgid "Welcome Messages"
+msgstr ""
+
+#: content.php:86 google-captcha.php:10 google-captcha.php:14
+#: google-captcha.php:31
+msgid "Google Captcha"
+msgstr ""
+
+#: content.php:89
+msgid "Import / Export"
+msgstr ""
+
+#: content.php:92 system-info.php:13 system-info.php:17
+msgid "System Info"
+msgstr ""
+
+#: content.php:95
+msgid "Recommended Plugins"
+msgstr ""
+
+#: content.php:98
+msgid "Recommended Themes"
+msgstr ""
+
+#: content.php:101
+msgid "Need Help"
+msgstr ""
+
+#: content.php:131
+msgid "Anything you want"
+msgstr ""
+
+#: content.php:134
+msgid "Copyright"
+msgstr ""
+
+#: content.php:134
+msgid "All rights reserved."
+msgstr ""
+
+#: dashboard.php:34
+msgid "DASHBOARD"
+msgstr ""
+
+#: dashboard.php:58
+msgid "DASHBOARD SETTINGS"
+msgstr ""
+
+#: dashboard.php:70 dashboard.php:93 footer.php:45 footer.php:129
+#: footer.php:202 footer.php:242 input-fields.php:217
+msgid " ON/OFF "
+msgstr ""
+
+#: dashboard.php:72
+msgid "Switch it ON/OFF to enable/disable Custom Login Page."
+msgstr ""
+
+#: dashboard.php:77
+msgid "View Login Page"
+msgstr ""
+
+#: dashboard.php:82
+msgid "Cick on the link to view the login page."
+msgstr ""
+
+#: dashboard.php:87
+msgid "Remove Settings on Uninstall"
+msgstr ""
+
+#: dashboard.php:95
+msgid "This option will remove all settings of this plugin upon uninstall."
+msgstr ""
+
+#: dashboard.php:102
+msgid "Custom CSS"
+msgstr ""
+
+#: dashboard.php:109
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: dashboard.php:114
+msgid "Put your custom css here."
+msgstr ""
+
+#: dashboard.php:115
+msgid "Note "
+msgstr ""
+
+#: dashboard.php:116
+msgid "Please do not use "
+msgstr ""
+
+#: dashboard.php:116
+msgid "tag with Custom CSS Editor."
+msgstr ""
+
+#: footer.php:32
+msgid "Lost Password Text Settings"
+msgstr ""
+
+#: footer.php:39
+msgid "Enable Lost Pass Text"
+msgstr ""
+
+#: footer.php:47
+msgid "Switch it ON/OFF to enable/disable Lost Password Text."
+msgstr ""
+
+#: footer.php:52
+msgid "Lost Password Text"
+msgstr ""
+
+#: footer.php:62
+msgid "Lost Pass Text Color"
+msgstr ""
+
+#: footer.php:71
+msgid "Lost Text Color(Hover)"
+msgstr ""
+
+#: footer.php:80
+msgid "Lost Text Font Size"
+msgstr ""
+
+#: footer.php:92
+msgid "Enable Lost Text Bg"
+msgstr ""
+
+#: footer.php:99
+msgid "Check this option to enable <b>Lost Password Text Bg Color</b> option."
+msgstr ""
+
+#: footer.php:104
+msgid "Lost Text Bg Color"
+msgstr ""
+
+#: footer.php:117
+msgid "BACK TO SITE TEXT"
+msgstr ""
+
+#: footer.php:123
+msgid "Enable \"Back to\" Text"
+msgstr ""
+
+#: footer.php:131
+msgid "Switch it ON/OFF to enable/disable \"Back To\" Text."
+msgstr ""
+
+#: footer.php:136
+msgid "\"Back to\" Text Color"
+msgstr ""
+
+#: footer.php:145
+msgid "\"Back to\" Text Hover Color"
+msgstr ""
+
+#: footer.php:154
+msgid "\"Back to\" Text Font Size"
+msgstr ""
+
+#: footer.php:166
+msgid "Enable \"Back to\" Text Bg"
+msgstr ""
+
+#: footer.php:173
+msgid "Check this option to enable <b>\"Back to\" Text Bg Color</b> option."
+msgstr ""
+
+#: footer.php:178
+msgid "\"Back to\" Text Bg Color"
+msgstr ""
+
+#: footer.php:190
+msgid "COPYRIGHT FOOTER TEXT"
+msgstr ""
+
+#: footer.php:196
+msgid "Enable Copyright Note"
+msgstr ""
+
+#: footer.php:204
+msgid "Switch it ON/OFF to enable/disable Copyright Text."
+msgstr ""
+
+#: footer.php:209
+msgid "Copyright Bg Color"
+msgstr ""
+
+#: footer.php:218
+msgid "Copyright Text Color"
+msgstr ""
+
+#: footer.php:227
+msgid "Copyright Note"
+msgstr ""
+
+#: footer.php:236
+msgid "Show some Love"
+msgstr ""
+
+#: footer.php:244
+msgid ""
+"Please help others learn about this plugin by placing small link in footer. "
+"Thank you very much!"
+msgstr ""
+
+#: footer.php:249
+msgid "Love Position"
+msgstr ""
+
+#: footer.php:254 login-form.php:115
+msgid "Left"
+msgstr ""
+
+#: footer.php:258 login-form.php:123
+msgid "Right"
+msgstr ""
+
+#: google-captcha.php:38
+msgid "Enable Captcha"
+msgstr ""
+
+#: google-captcha.php:46
+msgid "Note"
+msgstr ""
+
+#: google-captcha.php:46
+msgid ""
+"API keys is required to enable Google Captcha, get required keys and enter "
+"them below. "
+msgstr ""
+
+#: google-captcha.php:46
+msgid "Get the API Keys."
+msgstr ""
+
+#: google-captcha.php:51
+msgid "Site Key"
+msgstr ""
+
+#: google-captcha.php:61
+msgid "Secret Key"
+msgstr ""
+
+#: google-captcha.php:71
+msgid "Captcha Theme"
+msgstr ""
+
+#: google-captcha.php:76
+msgid "Light"
+msgstr ""
+
+#: google-captcha.php:80
+msgid "Dark"
+msgstr ""
+
+#: help.php:10 help.php:14
+msgid "Need Help!"
+msgstr ""
+
+#: help.php:31
+msgid "Welcome to Custom Login Page "
+msgstr ""
+
+#: help.php:39
+msgid "What's New?"
+msgstr ""
+
+#: help.php:42
+msgid "NEW!"
+msgstr ""
+
+#: help.php:44
+msgid "Change"
+msgstr ""
+
+#: help.php:44
+msgid "Plugin Name change to \"Custom Login Page\""
+msgstr ""
+
+#: help.php:45 help.php:46 help.php:47 help.php:48 help.php:49
+msgid "Added"
+msgstr ""
+
+#: help.php:45
+msgid "New \"Pre Design Layout\" Page added with one click demo importer"
+msgstr ""
+
+#: help.php:46
+msgid ""
+"\"Copyright Bg Color\" option added under the Setting >> Form Footer tab"
+msgstr ""
+
+#: help.php:47
+msgid ""
+"\"Copyright Text Color\" option added under the Setting >> Form Footer tab"
+msgstr ""
+
+#: help.php:48
+msgid "New \"System Info\" Page added"
+msgstr ""
+
+#: help.php:49
+msgid "New \"Recommended Plugins\" Page added"
+msgstr ""
+
+#: help.php:50 help.php:58 help.php:59
+msgid "Fixed"
+msgstr ""
+
+#: help.php:50
+msgid "Many Other Issue Fixed"
+msgstr ""
+
+#: help.php:58
+msgid "Background issue fixed of registration form & lost password form"
+msgstr ""
+
+#: help.php:59
+msgid "Plugin settings export issue fixed"
+msgstr ""
+
+#: help.php:60 help.php:61
+msgid "Update"
+msgstr ""
+
+#: help.php:60
+msgid "Plugin icon image updated"
+msgstr ""
+
+#: help.php:61
+msgid "Screenshot image updated"
+msgstr ""
+
+#: help.php:70
+msgid "Why You Should Go "
+msgstr ""
+
+#: help.php:70
+msgid "Premium?"
+msgstr ""
+
+#: help.php:71
+msgid ""
+"Premium version gives you full access to all premium tools for lifetime "
+"without any limitations. You can buy premium version for flat one time fee "
+"of <b>$18</b>."
+msgstr ""
+
+#: help.php:72
+msgid "Buy Now"
+msgstr ""
+
+#: help.php:76
+msgid "Loving "
+msgstr ""
+
+#: help.php:76
+msgid "Custom Login Page?"
+msgstr ""
+
+#: help.php:77
+msgid ""
+"Thank you for choosing Custom Login Page in your WordPress installation."
+msgstr ""
+
+#: help.php:78
+msgid ""
+"Do you mind taking a minute to support us by adding a review? Your feedback "
+"is very important to us."
+msgstr ""
+
+#: help.php:79
+msgid "Add a Review on WordPress"
+msgstr ""
+
+#: help.php:83
+msgid "Need Help?"
+msgstr ""
+
+#: help.php:84
+msgid ""
+"For superior help you can visit plugin documentation page. If you didn't "
+"found your solution there, we have an acting fast support for you. Post your "
+"question in our WordPress support forum."
+msgstr ""
+
+#: help.php:85
+msgid "Documentation"
+msgstr ""
+
+#: help.php:86
+msgid "Support Forum"
+msgstr ""
+
+#: import-export.php:10
+msgid "Import / Export Settings"
+msgstr ""
+
+#: import-export.php:14
+msgid "Import Export Settings"
+msgstr ""
+
+#: import-export.php:32
+msgid "Export Settings"
+msgstr ""
+
+#: import-export.php:38
+msgid ""
+"Export the plugin settings for this site as a .json file. This allows you to "
+"easily import the configuration into another site"
+msgstr ""
+
+#: import-export.php:44
+msgid "Export"
+msgstr ""
+
+#: import-export.php:54
+msgid "Import Custom Login Page Data"
+msgstr ""
+
+#: import-export.php:60
+msgid ""
+"Import the plugin settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above"
+msgstr ""
+
+#: import-export.php:69
+msgid "Import"
+msgstr ""
+
+#: input-fields.php:10
+msgid "INPUT FIRLD STYLING"
+msgstr ""
+
+#: input-fields.php:32
+msgid "Login Box Color Option"
+msgstr ""
+
+#: input-fields.php:39
+msgid "Input Field Label Color"
+msgstr ""
+
+#: input-fields.php:48
+msgid "Input Box Bg Color"
+msgstr ""
+
+#: input-fields.php:57
+msgid "Input Box Text Color"
+msgstr ""
+
+#: input-fields.php:66
+msgid "Remember Me Text Color"
+msgstr ""
+
+#: input-fields.php:75
+msgid "Enable LinK Shadaw"
+msgstr ""
+
+#: input-fields.php:82
+msgid "Check this option to enable <b>Link Shadow Color</b> option."
+msgstr ""
+
+#: input-fields.php:87
+msgid "Link Shadow Color"
+msgstr ""
+
+#: input-fields.php:99
+msgid "Font Size & Border Radius Options"
+msgstr ""
+
+#: input-fields.php:106
+msgid "Input Label Font Size"
+msgstr ""
+
+#: input-fields.php:118
+msgid "Input Text Font Size"
+msgstr ""
+
+#: input-fields.php:130
+msgid "Remember Font Size"
+msgstr ""
+
+#: input-fields.php:142
+msgid "Input Border Radious"
+msgstr ""
+
+#: input-fields.php:158
+msgid "Input Field Label & Placeholders"
+msgstr ""
+
+#: input-fields.php:163
+msgid "User Name Label"
+msgstr ""
+
+#: input-fields.php:173
+msgid "User Name Placeholder"
+msgstr ""
+
+#: input-fields.php:183
+msgid "Password Label"
+msgstr ""
+
+#: input-fields.php:193
+msgid "Password Placeholder"
+msgstr ""
+
+#: input-fields.php:205
+msgid "Icon For Input Box"
+msgstr ""
+
+#: input-fields.php:211
+msgid "Enable Input Box Icon"
+msgstr ""
+
+#: input-fields.php:219
+msgid "Switch it ON/OFF to enable/disable Input Box Icon."
+msgstr ""
+
+#: input-fields.php:224
+msgid "User Input Box"
+msgstr ""
+
+#: input-fields.php:234
+msgid "Password Input Box"
+msgstr ""
+
+#: login-form.php:10
+msgid "LOGIN FORM"
+msgstr ""
+
+#: login-form.php:14 login-form.php:156
+msgid "Login Form Settings"
+msgstr ""
+
+#: login-form.php:32
+msgid "Login Form Background Options"
+msgstr ""
+
+#: login-form.php:39
+msgid "Login Form Transparent"
+msgstr ""
+
+#: login-form.php:47
+msgid "To make Login Form Transparent."
+msgstr ""
+
+#: login-form.php:52
+msgid "Login Background Type"
+msgstr ""
+
+#: login-form.php:57
+msgid "Background Color"
+msgstr ""
+
+#: login-form.php:67
+msgid "Login Background Color"
+msgstr ""
+
+#: login-form.php:76
+msgid "Login Background Image"
+msgstr ""
+
+#: login-form.php:88 login-form.php:94
+msgid "Login Form Position"
+msgstr ""
+
+#: login-form.php:99 pre-design.php:82
+msgid "Default"
+msgstr ""
+
+#: login-form.php:100
+msgid "Floating"
+msgstr ""
+
+#: login-form.php:101
+msgid "Floating with Customization"
+msgstr ""
+
+#: login-form.php:110
+msgid "Float Settings"
+msgstr ""
+
+#: login-form.php:119
+msgid "Center"
+msgstr ""
+
+#: login-form.php:130
+msgid "Form Margin Left"
+msgstr ""
+
+#: login-form.php:142
+msgid "Form Margin Top"
+msgstr ""
+
+#: login-form.php:163
+msgid "Form Width"
+msgstr ""
+
+#: login-form.php:175
+msgid "Form Minimum Height"
+msgstr ""
+
+#: login-form.php:187
+msgid "Form Padding Left & Right"
+msgstr ""
+
+#: login-form.php:199
+msgid "Form Radius"
+msgstr ""
+
+#: login-form.php:211
+msgid "Form Border Size"
+msgstr ""
+
+#: login-form.php:223
+msgid "Form Border Style"
+msgstr ""
+
+#: login-form.php:228 logo-settings.php:53
+msgid "None"
+msgstr ""
+
+#: login-form.php:229
+msgid "Solid"
+msgstr ""
+
+#: login-form.php:230
+msgid "Dotted"
+msgstr ""
+
+#: login-form.php:231
+msgid "Dashed"
+msgstr ""
+
+#: login-form.php:232
+msgid "Double"
+msgstr ""
+
+#: login-form.php:241
+msgid "Form Border Color"
+msgstr ""
+
+#: login-form.php:250
+msgid "Enable Form Shadow"
+msgstr ""
+
+#: login-form.php:257
+msgid "Check this option to enable <b>Form Shadow Color</b> option."
+msgstr ""
+
+#: login-form.php:262
+msgid "Form Shadow Color"
+msgstr ""
+
+#: login-form.php:274
+msgid "Redirect Users After Login (Not Work For Admin)"
+msgstr ""
+
+#: login-form.php:280
+msgid "Redirect URL"
+msgstr ""
+
+#: logo-settings.php:10
+msgid "LOGO SETTINGS"
+msgstr ""
+
+#: logo-settings.php:35
+msgid "Select Logo Style"
+msgstr ""
+
+#: logo-settings.php:45
+msgid "Logo Image"
+msgstr ""
+
+#: logo-settings.php:49 logo-settings.php:115
+msgid "Logo Text"
+msgstr ""
+
+#: logo-settings.php:62
+msgid "Logo Image Settings"
+msgstr ""
+
+#: logo-settings.php:69
+msgid "Upload Logo"
+msgstr ""
+
+#: logo-settings.php:80
+msgid "Logo Width"
+msgstr ""
+
+#: logo-settings.php:92
+msgid "Logo Height"
+msgstr ""
+
+#: logo-settings.php:108
+msgid "Logo Text Settings"
+msgstr ""
+
+#: logo-settings.php:125
+msgid "Text Color"
+msgstr ""
+
+#: logo-settings.php:134
+msgid "Font Size"
+msgstr ""
+
+#: logo-settings.php:150
+msgid "Space Top"
+msgstr ""
+
+#: logo-settings.php:166
+msgid "Space Bottom"
+msgstr ""
+
+#: logo-settings.php:182
+msgid "Logo Link URL"
+msgstr ""
+
+#: logo-settings.php:192
+msgid "Logo Hover Title"
+msgstr ""
+
+#: plugins.php:48
+msgid "Photo Video Gallery Master"
+msgstr ""
+
+#: plugins.php:53
+msgid ""
+"A perfect responsive Gallery Plugin to display photo gallery, video gallery "
+"and link gallery with lightbox"
+msgstr ""
+
+#: plugins.php:65 plugins.php:105 plugins.php:145 plugins.php:185
+#: plugins.php:227
+msgid "Install Now"
+msgstr ""
+
+#: plugins.php:67 plugins.php:107 plugins.php:147 plugins.php:187
+#: plugins.php:229
+msgid "Detail Page (Pro)"
+msgstr ""
+
+#: plugins.php:69 plugins.php:109 plugins.php:149 plugins.php:189
+#: plugins.php:231
+msgid "Demo Site (Pro)"
+msgstr ""
+
+#: plugins.php:88
+msgid "Universal Slider"
+msgstr ""
+
+#: plugins.php:93
+msgid ""
+"Universal Slider is an awesome WordPress Slider Plugin with many nice "
+"features. Just need to install and build slider in a few minutes"
+msgstr ""
+
+#: plugins.php:128
+msgid "Ultimate Gallery Master"
+msgstr ""
+
+#: plugins.php:133
+msgid ""
+"Plugin allows to create unlimited Image, Video (YouTube and Vimeo) and link "
+"galleries with unlimited possibilities"
+msgstr ""
+
+#: plugins.php:168
+msgid "Coming Soon Master"
+msgstr ""
+
+#: plugins.php:173
+msgid ""
+"Coming Soon Master is modern coming soon, under construction & maintenance "
+"plugin to manage your website while it's under construction"
+msgstr ""
+
+#: plugins.php:210
+msgid "Social Media Gallery"
+msgstr ""
+
+#: plugins.php:215
+msgid ""
+"Social Media Gallery is the most advanced and powerful plugin which allow "
+"you to display your social media streams on your WordPress site"
+msgstr ""
+
+#: pre-design.php:48
+msgid "PRE DESIGN"
+msgstr ""
+
+#: pre-design.php:52
+msgid "Pre Design"
+msgstr ""
+
+#: pre-design.php:69
+msgid "PRE DESIGN LAYOUT"
+msgstr ""
+
+#: pre-design.php:76
+msgid "Select the style and click to \"Import Style\" button"
+msgstr ""
+
+#: pre-design.php:87
+msgid "Style 1"
+msgstr ""
+
+#: pre-design.php:92
+msgid "Style 2"
+msgstr ""
+
+#: pre-design.php:97
+msgid "Style 3"
+msgstr ""
+
+#: pre-design.php:102
+msgid "Style 4"
+msgstr ""
+
+#: pre-design.php:107
+msgid "Avaliable in PRO"
+msgstr ""
+
+#: pre-design.php:120
+msgid "Import Style"
+msgstr ""
+
+#: products.php:10
+msgid "Premium Product Page"
+msgstr ""
+
+#: products.php:11
+msgid "By WebHunt Infotech"
+msgstr ""
+
+#: products.php:14
+msgid "Shop Page"
+msgstr ""
+
+#: products.php:31
+msgid "WebHunt Premium Products Showcase"
+msgstr ""
+
+#: products.php:46
+msgid "Kyma Advanced"
+msgstr ""
+
+#: products.php:50 products.php:69 products.php:92 products.php:111
+msgid "View Demo"
+msgstr ""
+
+#: products.php:65
+msgid "Awada Premium"
+msgstr ""
+
+#: products.php:88
+msgid "iCare Premium"
+msgstr ""
+
+#: products.php:107
+msgid "Matrix Premium"
+msgstr ""
+
+#: system-info.php:14
+msgid "WP Custom Login Page"
+msgstr ""
+
+#: system-info.php:33
+msgid "System Information"
+msgstr ""
+
+#: welcome-messages.php:14
+msgid "Welcome Message"
+msgstr ""
+
+#: welcome-messages.php:39
+msgid "On Lost Password"
+msgstr ""
+
+#: welcome-messages.php:49
+msgid "On Login Page"
+msgstr ""
+
+#: welcome-messages.php:59
+msgid "On Registration"
+msgstr ""
+
+#: welcome-messages.php:69
+msgid "Logout Message"
+msgstr ""
+
+#: welcome-messages.php:82
+msgid "Message Box Styling"
+msgstr ""
+
+#: welcome-messages.php:88
+msgid "Message Field Bg Color"
+msgstr ""
+
+#: welcome-messages.php:97
+msgid "Message Field Border"
+msgstr ""
+
+#: welcome-messages.php:102
+msgid "For Example"
+msgstr ""
